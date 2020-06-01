@@ -22,7 +22,7 @@ sudo make install
 
 $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/kali-Pi-Extensions/master/tools/install.sh)"
 
-<p align="center"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="300" ></p>
+<p align="center"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="64" ></p>
 
 
 ______________________________________________________
