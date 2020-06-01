@@ -25,8 +25,7 @@ $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/kali-Pi-Extensions/master/
 ______________________________________________________
 | Plugin | README |
 | ------ | ------ |
-|<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="64" ></p> | [plugins/dropbox/README.md][PlDb] |
-<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-git.png" width="64" ></p>| [tool/plugins/github/README.md][PlGh] |
+|<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-git.png" width="64" ></p>| [tool/plugins/github/README.md][PlGh] |
 |<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-laravel.svg" width="64" ></p> | [tools/plugins/laravel/README.md][PlGd] |
 |<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-nodejs.svg" width="64" ></p> | [tools/plugins/node/README.md][PlOd] |
 |<p align="left"><img src="https://ohmyz.sh/img/plugin-logos/logo-spotify.png" width="64" ></p> | [tools/plugins/spotify][PlMe] |
