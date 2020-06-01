@@ -22,14 +22,13 @@ sudo make install
 
 $ sh -c "$(curl -fsSL https://raw.github.com/D3vD3m0n/kali-Pi-Extensions/master/tools/install.sh)"
 
-
+<p align="center"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="300" ></p>
 
 
 ______________________________________________________
 | Plugin | README |
 | ------ | ------ |
 |[![Solid](https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png =36x36)](https://nodesource.com/products/nsolid)| [plugins/dropbox/README.md][PlDb] |
-|<p align="center"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="300" ></p>
 [![Solid1](https://ohmyz.sh/img/plugin-logos/logo-git.png)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/git)
 | [tool/plugins/github/README.md][PlGh] |
 |[![Solid2](https://ohmyz.sh/img/plugin-logos/logo-laravel.svg)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/laravel)| [tools/plugins/laravel/README.md][PlGd] |
