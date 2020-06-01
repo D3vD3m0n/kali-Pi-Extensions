@@ -29,7 +29,9 @@ ______________________________________________________
 | Plugin | README |
 | ------ | ------ |
 |[![Solid](https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png =36x36)](https://nodesource.com/products/nsolid)| [plugins/dropbox/README.md][PlDb] |
-|[![Solid1](https://ohmyz.sh/img/plugin-logos/logo-git.png)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/git)| [tool/plugins/github/README.md][PlGh] |
+|<p align="center"><img src="https://ohmyz.sh/img/plugin-logos/logo-kubernetes.png" width="300" ></p>
+[![Solid1](https://ohmyz.sh/img/plugin-logos/logo-git.png)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/git)
+| [tool/plugins/github/README.md][PlGh] |
 |[![Solid2](https://ohmyz.sh/img/plugin-logos/logo-laravel.svg)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/laravel)| [tools/plugins/laravel/README.md][PlGd] |
 |[![Solid3](https://ohmyz.sh/img/plugin-logos/logo-nodejs.svg)](https://github.com/D3vD3m0n/kali-Pi-Extensions/tree/master/tools/plugins/node)| [tools/plugins/node/README.md][PlOd] |
 |[![Solid4](https://ohmyz.sh/img/plugin-logos/logo-spotify.png)](https://github.com/D3vD3m0n/kali-Pi-Extensions/blob/master/plugins/osx/spotify)| [tools/plugins/spotify][PlMe] |
