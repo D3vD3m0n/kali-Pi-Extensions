@@ -11,6 +11,16 @@ Rpi 1/2/3/3arm64/4/4arm64
 Bpi M1/M2/M2arm64/M2Z/P2Z
 Opi 1/2
 
+     git kali-Pi-Extensions 
+     
+sudo rm -rf kali-Pi-Extensions
+sudo git clone https://github.com/D3vD3m0n/kali-Pi-Extensions.git
+sudo chmod -R 755 kali-Pi-Extensions
+cd kali-Pi-Extensions/
+configure:
+sudo ./configure
+sudo make
+sudo make install
 
      Install kali-Pi-Extensions via curl Install kali-Pi-Extensions via wget 
 
