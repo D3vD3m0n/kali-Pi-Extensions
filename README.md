@@ -1,9 +1,5 @@
 # kali-Pi-Extensions
-_,_ _,_,  _    __, _    __,_  ,_____,_, _ _, _ _,_, _ _,
-|_//_\|   |    |_) |    |_ '\/  | |_ |\ |(_  |/ \|\ |(_ 
-| \| || , |    |   |    |   /\  | |  | \|, ) |\ /| \|, )
-~ ~~ ~~~~ ~    ~   ~    ~~~~  ~ ~ ~~~~  ~ ~  ~ ~ ~  ~ ~ 
-
+[![Solid00](https://raspberry-valley.azurewebsites.net/img/raspibanner.jpg)](https://github.com/D3vD3m0n/)| 
 Kali Linux 2020.x installation Extension Collection
 
 Supported Devices:
@@ -12,7 +8,7 @@ Bpi M1/M2/M2arm64/M2Z/P2Z
 Opi 1/2
 
      git kali-Pi-Extensions 
-     
+
 sudo rm -rf kali-Pi-Extensions
 sudo git clone https://github.com/D3vD3m0n/kali-Pi-Extensions.git
 sudo chmod -R 755 kali-Pi-Extensions
