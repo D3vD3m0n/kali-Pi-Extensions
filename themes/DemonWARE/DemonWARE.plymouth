@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=DemonWARE
+Description=A theme that features the DemonWARE logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/DemonWARE
+ScriptFile=/usr/share/plymouth/themes/DemonWARE/DemonWARE.script
