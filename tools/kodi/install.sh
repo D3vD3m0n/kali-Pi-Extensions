@@ -14,7 +14,7 @@ sudo apt-get install libpng-dev  libpulse-dev    libsmbclient-dev  libspdlog-dev
 sudo apt-get install libtiff5-dev -y
 sudo apt-get install libtiff-dev -y
 sudo apt-get install libtinyxml-dev  libtool  libudev-dev  libva-dev  libvdpau-dev  libvorbis-dev  libxkbcommon-dev  libxmu-dev  libxrandr-dev  libxslt1-dev -y
-sudo apt-get install libxslt-dev  libxt-dev  waylandpp-dev -y 
+sudo apt-get install libxslt-dev  libxt-dev  waylandpp-dev libunistring-dev y 
 sudo apt-get install netcat  wayland-protocols -y
 sudo apt-get install wipe  lsb-release  meson   nasm  ninja-build  python3-dev  python3-pil -y
 sudo apt-get install python-imaging  python-support -y
